@@ -179,10 +179,6 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225745/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225818/index.m3u8
 #EXTINF:-1 group-title="卫视频道",湖南卫视HD 84M
 http://39.135.138.59:18890/PLTV/88888910/224/3221225817/index.m3u8
-#EXTINF:-1 group-title="地方频道",纪实人文HD 8M
-http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
-#EXTINF:-1 group-title="地方频道",纪实人文HD 4M
-http://39.135.138.59:18890/PLTV/88888910/224/3221225654/index.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视HD 4M
 http://39.135.138.59:18890/PLTV/88888910/224/3221225743/index.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视HD 4M
@@ -261,10 +257,6 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225869/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225728/index.m3u8
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225860/index.m3u8
-#EXTINF:-1 group-title="地方频道",哈哈炫动
-http://39.135.138.59:18890/PLTV/88888910/224/3221225720/index.m3u8
-#EXTINF:-1 group-title="地方频道",哈哈炫动
-http://39.135.138.59:18890/PLTV/88888910/224/3221225902/index.m3u8
 #EXTINF:-1 group-title="卫视频道",海南卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225722/index.m3u8
 #EXTINF:-1 group-title="卫视频道",海南卫视
@@ -405,14 +397,6 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225707/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225666/index.m3u8
 #EXTINF:-1 group-title="Newtv剧场",NewTV中国功夫
 http://39.135.138.59:18890/PLTV/88888910/224/3221225660/index.m3u8
-#EXTINF:-1 group-title="地方频道",中国交通
-http://39.135.138.59:18890/PLTV/88888910/224/3221225877/index.m3u8
-#EXTINF:-1 group-title="地方频道",中华美食
-http://39.135.138.59:18890/PLTV/88888910/224/3221225878/index.m3u8
-#EXTINF:-1 group-title="地方频道",中华美食
-http://39.135.138.59:18890/PLTV/88888910/224/3221225924/index.m3u8
-#EXTINF:-1 group-title="地方频道",中视购物
-http://39.135.138.59:18890/PLTV/88888910/224/3221225976/index.m3u8
 #EXTINF:-1 group-title="Newtv剧场",黑莓电竞
 http://39.135.138.59:18890/PLTV/88888910/224/3221225653/index.m3u8
 #EXTINF:-1 group-title="Newtv剧场",黑莓电竞
@@ -431,3 +415,13 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225672/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225712/index.m3u8
 #EXTINF:-1 group-title="地方频道",未知HD
 http://39.135.138.59:18890/PLTV/88888910/224/3221225716/index.m3u8
+#EXTINF:-1 group-title="地方频道",中国交通
+http://39.135.138.59:18890/PLTV/88888910/224/3221225877/index.m3u8
+#EXTINF:-1 group-title="地方频道",中华美食
+http://39.135.138.59:18890/PLTV/88888910/224/3221225878/index.m3u8
+#EXTINF:-1 group-title="地方频道",中华美食
+http://39.135.138.59:18890/PLTV/88888910/224/3221225924/index.m3u8
+#EXTINF:-1 group-title="地方频道",纪实人文HD 8M
+http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1 group-title="地方频道",纪实人文HD 4M
+http://39.135.138.59:18890/PLTV/88888910/224/3221225654/index.m3u8
