@@ -3,6 +3,8 @@
 http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K高清",CCTV4K  UHD
 http://39.134.185.69/PLTV/88888888/224/3221226758/1.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K HDR" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K高清",CCTV4K HDR
+http://111.161.121.212/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV1 HD 4M
 http://39.135.138.59:18890/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV1 HD 4M
@@ -117,6 +119,8 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225661/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225865/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CETV",CETV4
 http://39.135.138.59:18890/PLTV/88888910/224/3221225937/index.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视HD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视频道",四川卫视HD
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视HD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视频道",安徽卫视HD 4M
 http://39.135.138.59:18890/PLTV/88888910/224/3221225737/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视HD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视频道",安徽卫视HD 4M
