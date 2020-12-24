@@ -124,32 +124,32 @@ http://www.nettvplus.live/hls/cetv.php?id=449
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CETV",CETV4
 http://39.135.138.59:18890/PLTV/88888910/224/3221225937/index.m3u8
 
-#EXTINF:-1 tvg-id="6564" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/nxss.png" group-title="中国央视", CCTV 女性时尚 高清
+#EXTINF:-1 tvg-id="6564" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/nxss.png" group-title="央视频道", CCTV 女性时尚 高清
 http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6560" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/sjdl.png" group-title="中国央视", CCTV 世界地理 高清
+#EXTINF:-1 tvg-id="6560" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/sjdl.png" group-title="央视频道", CCTV 世界地理 高清
 http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6569" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/ysjp.png" group-title="中国央视", CCTV 央视文化精品 高清
+#EXTINF:-1 tvg-id="6569" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/ysjp.png" group-title="央视频道", CCTV 央视文化精品 高清
 http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6584" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="中国央视", CCTV 央视台球 高清
+#EXTINF:-1 tvg-id="6584" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视频道", CCTV 央视台球 高清
 http://ott.cqccn.com/PLTV/88888888/224/3221227646/index.m3u8
-#EXTINF:-1 tvg-id="6594" tvg-logo="http://www.nettvplus.live/uploads/20/1-200H51R442500.jpg" group-title="中国央视", 中央新影 老故事
+#EXTINF:-1 tvg-id="6594" tvg-logo="http://www.nettvplus.live/uploads/20/1-200H51R442500.jpg" group-title="央视频道", 中央新影 老故事
 http://39.135.139.9:6610/PLTV/88888888/224/3221225517/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6583" tvg-logo="http://www.nettvplus.live/uploads/20/1-200Q2211040237.jpg" group-title="中国央视", 中央新影 中学生
+#EXTINF:-1 tvg-id="6583" tvg-logo="http://www.nettvplus.live/uploads/20/1-200Q2211040237.jpg" group-title="央视频道", 中央新影 中学生
 http://39.135.139.9:6610/PLTV/88888888/224/3221225515/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6592" tvg-logo="http://www.nettvplus.live/uploads/20/1-200H412263KK.jpg" group-title="中国央视", 中央新影 新科动漫
+#EXTINF:-1 tvg-id="6592" tvg-logo="http://www.nettvplus.live/uploads/20/1-200H412263KK.jpg" group-title="央视频道", 中央新影 新科动漫
 http://39.135.139.9:6610/PLTV/88888888/224/3221225516/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6588" tvg-logo="http://www.nettvplus.live/uploads/20/1-200Q2205Q3405.jpg" group-title="中国央视", 中央新影 发现之旅
+#EXTINF:-1 tvg-id="6588" tvg-logo="http://www.nettvplus.live/uploads/20/1-200Q2205Q3405.jpg" group-title="央视频道", 中央新影 发现之旅
 http://125.210.152.18:9090/live/FXZL_750.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/CNC.png" group-title="中国央视", CNC 中文
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/CNC.png" group-title="央视频道", CNC 中文
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/CNC.png" group-title="中国央视", CNC 英文
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/CNC.png" group-title="央视频道", CNC 英文
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
-#EXTINF:-1 tvg-id="6241" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="中国央视", CHC高清电影
+#EXTINF:-1 tvg-id="6241" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="央视频道", CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 tvg-id="6246" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="中国央视", CHC家庭电影
+#EXTINF:-1 tvg-id="6246" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="央视频道", CHC家庭电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 tvg-id="6245" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="中国央视", CHC动作电影
+#EXTINF:-1 tvg-id="6245" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="央视频道", CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视HD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视频道",四川卫视HD
