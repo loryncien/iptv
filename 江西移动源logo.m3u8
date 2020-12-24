@@ -113,17 +113,16 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225747/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225896/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="CGTN",CGTN纪录
 http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CETV",CETV1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv1.jpg" group-title="CETV",CETV1
 http://39.135.138.59:18890/PLTV/88888910/224/3221225661/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CETV",CETV1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv1.jpg" group-title="CETV",CETV1
 http://39.135.138.59:18890/PLTV/88888910/224/3221225865/index.m3u8
 #EXTINF:-1 tvg-id="74" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv2.jpg" group-title="CETV", CETV-2
 http://www.nettvplus.live/hls/cetv.php?id=450
 #EXTINF:-1 tvg-id="75" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv3.jpg" group-title="CETV", CETV-3
 http://www.nettvplus.live/hls/cetv.php?id=449
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CETV",CETV4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv4.jpg" group-title="CETV",CETV4
 http://39.135.138.59:18890/PLTV/88888910/224/3221225937/index.m3u8
-
 #EXTINF:-1 tvg-id="6564" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/nxss.png" group-title="央视频道", CCTV 女性时尚 高清
 http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6560" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/sjdl.png" group-title="央视频道", CCTV 世界地理 高清
@@ -376,75 +375,75 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225885/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225886/index.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视频道",重庆卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225866/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV爱情喜剧
+#EXTINF:-1 tvg-id="NewTV爱情喜剧" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvxiju.jpg" group-title="Newtv剧场",NewTV爱情喜剧
 http://39.135.138.59:18890/PLTV/88888910/224/3221225748/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV超级电视剧
+#EXTINF:-1 tvg-id="NewTV超级电视剧" tvg-name="" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="Newtv剧场",NewTV超级电视剧
 http://39.135.138.59:18890/PLTV/88888910/224/3221225625/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV超级电视剧
+#EXTINF:-1 tvg-id="NewTV超级电视剧" tvg-name="" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="Newtv剧场",NewTV超级电视剧
 http://39.135.138.59:18890/PLTV/88888910/224/3221225765/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV超级电影
+#EXTINF:-1 tvg-id="NewTV超级电影" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdianying.jpg" group-title="Newtv剧场",NewTV超级电影
 http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV超级电影
+#EXTINF:-1 tvg-id="NewTV超级电影" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdianying.jpg" group-title="Newtv剧场",NewTV超级电影
 http://39.135.138.59:18890/PLTV/88888910/224/3221225766/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV超级体育
+#EXTINF:-1 tvg-id="NewTV超级体育" tvg-name="" tvg-logo=https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png"" group-title="Newtv剧场",NewTV超级体育
 http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV超级体育
+#EXTINF:-1 tvg-id="NewTV超级体育" tvg-name="" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="Newtv剧场",NewTV超级体育
 http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV超级体育
+#EXTINF:-1 tvg-id="NewTV超级体育" tvg-name="" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="Newtv剧场",NewTV超级体育
 http://39.135.138.59:18890/PLTV/88888910/224/3221225767/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV超级体育
+#EXTINF:-1 tvg-id="NewTV超级体育" tvg-name="" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="Newtv剧场",NewTV超级体育
 http://39.135.138.59:18890/PLTV/88888910/224/3221225912/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV超级综艺
+#EXTINF:-1 tvg-id="NewTV超级综艺" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvzongyi.jpg" group-title="Newtv剧场",NewTV超级综艺
 http://39.135.138.59:18890/PLTV/88888910/224/3221225620/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV超级综艺
+#EXTINF:-1 tvg-id="NewTV超级综艺" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvzongyi.jpg" group-title="Newtv剧场",NewTV超级综艺
 http://39.135.138.59:18890/PLTV/88888910/224/3221225768/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV潮妈辣婆
+#EXTINF:-1 tvg-id="NewTV潮妈辣婆" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvlama.jpg" group-title="Newtv剧场",NewTV潮妈辣婆
 http://39.135.138.59:18890/PLTV/88888910/224/3221225708/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV动作电影
+#EXTINF:-1 tvg-id="NewTV动作电影" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdongzuo.jpg" group-title="Newtv剧场",NewTV动作电影
 http://39.135.138.59:18890/PLTV/88888910/224/3221225671/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV古装剧场
+#EXTINF:-1 tvg-id="NewTV古装剧场" tvg-name="" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="Newtv剧场",NewTV古装剧场
 http://39.135.138.59:18890/PLTV/88888910/224/3221225678/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV家庭剧场
+#EXTINF:-1 tvg-id="NewTV家庭剧场" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjiating.jpg" group-title="Newtv剧场",NewTV家庭剧场
 http://39.135.138.59:18890/PLTV/88888910/224/3221225713/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV江西
+#EXTINF:-1 tvg-id="NewTV江西" tvg-name="" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="Newtv剧场",NewTV江西
 http://39.135.138.59:18890/PLTV/88888910/224/3221225979/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV金牌综艺
+#EXTINF:-1 tvg-id="NewTV金牌综艺" tvg-name="" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="Newtv剧场",NewTV金牌综艺
 http://39.135.138.59:18890/PLTV/88888910/224/3221225711/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV惊悚悬疑
+#EXTINF:-1 tvg-id="NewTV惊悚悬疑" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjingsong.jpg" group-title="Newtv剧场",NewTV惊悚悬疑
 http://39.135.138.59:18890/PLTV/88888910/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV精品大剧
+#EXTINF:-1 tvg-id="NewTV精品大剧" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdaju.jpg" group-title="Newtv剧场",NewTV精品大剧
 http://39.135.138.59:18890/PLTV/88888910/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV精品纪录
+#EXTINF:-1 tvg-id="NewTV精品纪录" tvg-name="" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="Newtv剧场",NewTV精品纪录
 http://39.135.138.59:18890/PLTV/88888910/224/3221225710/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV精品体育
+#EXTINF:-1 tvg-id="NewTV精品体育" tvg-name="" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="Newtv剧场",NewTV精品体育
 http://39.135.138.59:18890/PLTV/88888910/224/3221225709/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV军旅剧场
+#EXTINF:-1 tvg-id="NewTV军旅剧场" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjunlv.jpg" group-title="Newtv剧场",NewTV军旅剧场
 http://39.135.138.59:18890/PLTV/88888910/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV军事评论
+#EXTINF:-1 tvg-id="NewTV军事评论" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjspl.jpg" group-title="Newtv剧场",NewTV军事评论
 http://39.135.138.59:18890/PLTV/88888910/224/3221225757/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV农业致富
+#EXTINF:-1 tvg-id="NewTV农业致富" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvnongye.jpg" group-title="Newtv剧场",NewTV农业致富
 http://39.135.138.59:18890/PLTV/88888910/224/3221225670/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV武搏世界
+#EXTINF:-1 tvg-id="Newtv剧场" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvboji.jpg" group-title="Newtv剧场",NewTV武搏世界
 http://39.135.138.59:18890/PLTV/88888910/224/3221225656/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV炫舞未来
+#EXTINF:-1 tvg-id="NewTV炫舞未来" tvg-name="" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="Newtv剧场",NewTV炫舞未来
 http://39.135.138.59:18890/PLTV/88888910/224/3221225707/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV怡伴健康
+#EXTINF:-1 tvg-id="NewTV怡伴健康" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjiankang.jpg" group-title="Newtv剧场",NewTV怡伴健康
 http://39.135.138.59:18890/PLTV/88888910/224/3221225666/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",NewTV中国功夫
+#EXTINF:-1 tvg-id="NewTV中国功夫" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvgongfu.jpg" group-title="Newtv剧场",NewTV中国功夫
 http://39.135.138.59:18890/PLTV/88888910/224/3221225660/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",黑莓电竞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="Newtv剧场",黑莓电竞
 http://39.135.138.59:18890/PLTV/88888910/224/3221225653/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",黑莓电竞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="Newtv剧场",黑莓电竞
 http://39.135.138.59:18890/PLTV/88888910/224/3221225749/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",黑莓电竞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="Newtv剧场",黑莓电竞
 http://39.135.138.59:18890/PLTV/88888910/224/3221225750/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",黑莓电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="Newtv剧场",黑莓电影
 http://39.135.138.59:18890/PLTV/88888910/224/3221225718/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",黑莓电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="Newtv剧场",黑莓电影
 http://39.135.138.59:18890/PLTV/88888910/224/3221225764/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",黑莓电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="Newtv剧场",黑莓电影
 http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv剧场",黑莓动画
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="Newtv剧场",黑莓动画
 http://39.135.138.59:18890/PLTV/88888910/224/3221225672/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",未知HD
 http://39.135.138.59:18890/PLTV/88888910/224/3221225712/index.m3u8
